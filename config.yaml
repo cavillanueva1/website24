@@ -20,11 +20,14 @@ languages:
         - identifier: showcase
           name: Showcase
           url: /showcase
+        - identifier: experience
+          name: Experience
+          url: /experience
     menuMore: Show more
     params:
       logo:
         logoHomeLink: /
-        logoText: Terminal
+        logoText: home
     readMore: Read more
     readOtherPosts: Read other posts
     subtitle: A simple, retro theme for Hugo

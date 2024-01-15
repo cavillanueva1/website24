@@ -6,7 +6,7 @@ params:
   centerTheme: no
   contentTypeName: posts
   fullWidthTheme: no
-  showMenuItems: 2
+  showMenuItems: 3
   themeColor: orange
 languages:
   en:

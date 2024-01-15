@@ -1,16 +1,16 @@
 ---
-title: "c h r i s t i a n   v i l l a n u e v a"
-author: ""
-date: 2024-01-15T21:13:14-05:00
+title: "Hello R Markdown"
+author: "Frida Gomam"
+date: 2020-12-01T21:13:14-05:00
 categories: ["R"]
-tags: ["home"]
+tags: ["R Markdown", "plot", "regression"]
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(collapse = TRUE)
 ```
 
-# welcome to website
+# R Markdown
 
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 

@@ -10,6 +10,5 @@ UW Madison, Dept of Botany .  .   .   .   .   .   .   .   .   .   . 8/23 - prese
  - PhD Student
 
 University of Chicago .   .   .   .   .   .   .   .   .   .   .   . 09/2018 - 06/2022
- - BA Environmental Studies & Geographic Sciences
- - 3.911/4 GPA
+ - BA Environmental Studies & Geographic Sciences, 3.911/4 GPA
  - Awards: Dean's list 2019-2022, Summa Cum Laude, thesis awarded honors

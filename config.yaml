@@ -23,7 +23,7 @@ languages:
         - identifier: experience
           name: Experience
           url: /experience
-    menuMore: Show more
+   # menuMore: Show more
     params:
       logo:
         logoHomeLink: /
